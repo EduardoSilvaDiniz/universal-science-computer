@@ -51,5 +51,6 @@ int main(){
   checkPriority(patientTwo);
 
   free(patient);
+  free(patientTwo);
   return 0; 
 }
