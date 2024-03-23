@@ -1,3 +1,3 @@
 all:
-	gcc exer2.c 
+	gcc exercise4.c
 	./a.out
