@@ -1,4 +1,4 @@
-import math;    #biblioteca math para qualquer raiz quadrada.
+import math;    #biblioteca math para calcular raiz quadrada.
 
 lang = input("Digite o Numero do Exercicio da Lista: ")
 
